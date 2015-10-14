@@ -2,7 +2,7 @@
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <html>
 <head>
-<title>Hello World</title>
+<title>Hello World Laouni</title>
 </head>
 <body>
    Hello World, <s:property value="name"/>
