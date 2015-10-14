@@ -1,0 +1,117 @@
+/*To change this license header, choose License Headers in Project Properties.To change this template file, choose Tools | Templatesand open the template in the editor.*//*     Created on : 7 oct. 2015, 11:50:14    Author     : laouni_ngoue*/#company-info-box,.links,#main-wrapper,#barlog,header,footer,.share-bar,a.green-button,.posted_on,span.fill-orange-link,#jt-like-20,.links,.followers,#tip,hr,#sign_in_form,aside,#search-terms,.subheader,.ui-multiselect-menu,.fill-orange-link,.pagination,.video-preview
+{
+    display:none
+}
+body
+{
+    font-family:arial;
+    font-size:11px
+}
+h1.title
+{
+    margin-top:0;
+    margin-bottom:1.6em;
+    border-bottom:none
+}
+h1
+{
+    margin:1em 0;
+    border-bottom:2px solid #ccc
+}
+h2
+{
+    font-size:14px;
+    background-color:#cccccc;
+    padding:5px
+}
+#avatar
+{
+    text-align:center
+}
+#avatar img
+{
+    border:1px solid #cccccc;
+    margin:10px 0px
+}
+.contact-box
+{
+    padding:5px;
+    text-align:center
+}
+.contact-box p
+{
+    word-wrap:break-word
+}
+#company
+{
+    overflow:hidden
+}
+#company-left-side
+{
+    float:left;
+    width:20%;
+    padding:10px;
+    background:#ccc
+}
+#company-right-side
+{
+    float:right;
+    width:75%;
+    padding-left:10px;
+    margin-top:10px
+}
+#breadcrumb
+{
+    margin-left:22%;
+    padding-left:20px
+}
+#breadcrumb img
+{
+    vertical-align:bottom;
+    float:right;
+    width:80px
+}
+#breadcrumb a,#breadcrumb h1,#breadcrumb img
+{
+    display:inline;
+    font-size:14px
+}
+#breadcrumb a,#breadcrumb a:visited,#breadcrumb a:hover
+{
+    color:black;
+    text-decoration:none;
+    font-size:12px
+}
+#presentation
+{
+    display:none
+}
+.user-content img
+{
+    display:block;
+    width:75%;
+    margin:10px auto
+}
+li.job-offer
+{
+    list-style:none;
+    display:block;
+    height:100px;
+    overflow:hidden;
+    margin-bottom:20px
+}
+li.job-offer img
+{
+    border:1px solid #ebebeb
+}
+li.job-offer .job-offer-float
+{
+    float:left;
+    width:100px
+}
+li.job-offer .content
+{
+    float:right;
+    width:500px
+}
+
