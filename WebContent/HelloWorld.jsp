@@ -6,5 +6,6 @@
 </head>
 <body>
    Hello World, <s:property value="name"/>
+   Hello World Fabienne OK
 </body>
 </html>
